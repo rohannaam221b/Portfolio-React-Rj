@@ -48,7 +48,7 @@ const About = () => {
                   <div>
                     <a href="#contact">
                       <Button className="m-2" variant="outline-primary">
-                        Let's talk
+                        Lets talk
                       </Button>
                     </a>
                   </div>
