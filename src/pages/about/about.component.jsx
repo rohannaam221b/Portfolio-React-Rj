@@ -29,7 +29,7 @@ const About = () => {
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Rohan J Rao</strong>
                 <br />A Engineer and a Learner, born and brought up
-                in India. I am a Junior Web Developer with React.js, Redux,
+                in India. I am a Junior Web Developer with React.js,
                 Express.js, Node.js and PostgreSQL as my tech stack.
                 <br />
                 In 2020, I successfully completed my Engineering with
